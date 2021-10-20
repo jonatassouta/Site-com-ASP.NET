@@ -21,7 +21,7 @@ namespace AutoEscola.Pages
         [EmailAddress]
         public string Email { get; set; }
         [DataType(DataType.Date)]
-        [Display(Name = "Data Admissao")]
+        [Display(Name = "Data de Nascimento")]
         public DateTime DataNascimento { get; set; }
     }
 }

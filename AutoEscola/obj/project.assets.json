@@ -7153,11 +7153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonat\\OneDrive\\Turma de Formação Cast\\Windows Form\\AutoEscola\\AutoEscola\\AutoEscola.csproj",
+      "projectUniqueName": "C:\\Meus Projetos\\Site-com-ASP.NET\\AutoEscola\\AutoEscola.csproj",
       "projectName": "AutoEscola",
-      "projectPath": "C:\\Users\\jonat\\OneDrive\\Turma de Formação Cast\\Windows Form\\AutoEscola\\AutoEscola\\AutoEscola.csproj",
+      "projectPath": "C:\\Meus Projetos\\Site-com-ASP.NET\\AutoEscola\\AutoEscola.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonat\\OneDrive\\Turma de Formação Cast\\Windows Form\\AutoEscola\\AutoEscola\\obj\\",
+      "outputPath": "C:\\Meus Projetos\\Site-com-ASP.NET\\AutoEscola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",

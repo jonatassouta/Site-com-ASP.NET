@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JdvSeEr6ZZVEVmz+7j6skhzIZxEIRITnr95ijqwwes6nFUkDxH01hCPMWYqerMSFLvnGT7J1CyV1UZgphuLZpw==",
+  "dgSpecHash": "SPn5wdNNTUk6OdFAE1ITqNAo36bM0u4RaJafn7/2FAVQVuJpitSUkwoM07zw7drS2uyyFEkoHEZdzzeMauTEdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jonat\\OneDrive\\Turma de Formação Cast\\Windows Form\\AutoEscola\\AutoEscola\\AutoEscola.csproj",
+  "projectFilePath": "C:\\Meus Projetos\\Site-com-ASP.NET\\AutoEscola\\AutoEscola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jonat\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
